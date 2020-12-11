@@ -14,7 +14,7 @@
 Chile Marca Preferencia es un proyecto de FCI que tiene como objetivo entregar a lxs ciudadanxs datos actualizados respecto de las posturas y definiciones políticas de determinadxs actorxs.
 
 <details>
-<summary>Metodología y creadores</summary>
+  <summary><h2>Metodología y creadores</h2></summary>
 
 ### Metodología:
 
