@@ -14,9 +14,19 @@
 
 Chile Marca Preferencia es un proyecto de FCI que tiene como objetivo entregar a lxs ciudadanxs datos actualizados respecto de las posturas y definiciones políticas de determinadxs actorxs.
 
+###Metodología:
+
+La metodología de Marca Preferencia se centra principalmente en dos objetivos: 
+La definición de una escala de posiciones políticas que represente de forma comprensiva y balanceada las posturas respecto a 22 preguntas clave para el futuro del país. Y la segunda es establecer un mecanismo para la recopilación de posiciones que permita su visualización de forma amigable, simple y comparable.
+
+###Creadores:
+
+Chile marca preferencia es un proyecto elaborado por Ciudadanía Inteligente una organización sin fines de lucro y apartidista que lucha por la justicia social y por la transformación de las democracias. Y Friedrich-Ebert-Stiftung fundación política alemana de cooperación internacional con oficinas en más de 100 países. 
+
+
 ## Guía de instalación<a name="id2"></a>
 
-----
+Es una aplicación desarrollada con el framework Ruby on Rails, desarrollada para Chile. Con conocimiento en Rails se puede adaptar para cualquier país.
 
 ## Variables de entorno<a name="id3"></a>
 
