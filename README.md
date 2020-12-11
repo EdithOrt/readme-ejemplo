@@ -15,6 +15,7 @@ Chile Marca Preferencia es un proyecto de FCI que tiene como objetivo entregar a
 
 <details>
 <summary><b>Metodología y creadores</b></summary>
+
 ### Metodología:
 
 La metodología de Marca Preferencia se centra principalmente en dos objetivos: 
@@ -23,7 +24,7 @@ La definición de una escala de posiciones políticas que represente de forma co
 ### Creadores:
 
 Chile marca preferencia es un proyecto elaborado por Ciudadanía Inteligente una organización sin fines de lucro y apartidista que lucha por la justicia social y por la transformación de las democracias. Y Friedrich-Ebert-Stiftung fundación política alemana de cooperación internacional con oficinas en más de 100 países. 
-<details>
+</details>
 
 ## Guía de instalación<a name="id2"></a>
 
