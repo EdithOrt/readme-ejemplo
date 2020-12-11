@@ -29,7 +29,9 @@ Es una aplicación desarrollada con el framework Ruby on Rails, desarrollada par
 
 Se debe clonar con:
 
-´´´git clone https://gitlab.com/ciudadaniai/chilemarcapreferencia.git´´´
+´´´
+git clone https://gitlab.com/ciudadaniai/chilemarcapreferencia.git
+´´´
 
 En la terminal dirigirse al directorio con:
 
