@@ -35,11 +35,35 @@ git clone https://gitlab.com/ciudadaniai/chilemarcapreferencia.git
 
 En la terminal dirigirse al directorio con:
 
-´´´cd chilemarcaprefererencia´´´
+```
+cd chilemarcaprefererencia
+```
 
 Para instalar una versión local de la app se necesita: 
 
--
+- Ruby 2.6.6
+Se recomienda manejar las versiones de Ruby con rbenv. La forma básica es:
+```
+rbenv install 2.6.6
+```
+
+- Postgresql
+Dependera de la plataforma o sistema operativo.
+
+- Instalar gemas con:
+```
+bundle install
+```
+
+- Ejecutar
+```
+bundle exec rails webpacker:install
+```
+
+- Si se genera error de yarn, resolver con:
+```
+yarn install --check-files
+```
 
 ## ¿Cómo ejecutar pruebas unitarias?<a name="id4"></a>
 
