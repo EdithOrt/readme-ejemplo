@@ -71,7 +71,7 @@ yarn install --check-files
 
 ## Tecnologías utilizadas<a name="id5"></a>
 
-- Ruby 6.6.0 https://www.ruby-lang.org/es/
+- [Ruby 6.6.0](https://www.ruby-lang.org/es/)
 - Javascript
 - HTML
 - Yarn https://classic.yarnpkg.com/es-ES
